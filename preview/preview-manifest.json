@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/bossa-nova-inspired-simple-synth-preview.mp3",
+  "preview_sha256": "90bd9e684cad3d0b6e2e52e0ad433a677f2594515ad597e5b5a585f17c1bf9e2",
+  "source_midi_path": "midi/bn01-window-plant/bn01-window-plant-combined.mid",
+  "source_midi_sha256": "f23f1d53a9c7d66707f5e6ce8b1a9278e1ca783ef90d1d9e0e475611c41ccfc9",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "bn01",
+    "start_seconds": 0,
+    "end_seconds": 80.0
+  },
+  "measurement": {
+    "sample_peak": 0.192293,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

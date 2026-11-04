@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+bn01,Window Plant,pack-local equal-tempered pitch collection,C,96,4/4,480,32,61440,midi/bn01-window-plant/bn01-window-plant-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bn02,Held Reply,pack-local equal-tempered pitch collection,D#,96,4/4,480,32,61440,midi/bn02-held-reply/bn02-held-reply-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bn03,Soft Count,pack-local equal-tempered pitch collection,F#,96,4/4,480,32,61440,midi/bn03-soft-count/bn03-soft-count-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bn04,Porch Return,pack-local equal-tempered pitch collection,C#,96,4/4,480,32,61440,midi/bn04-porch-return/bn04-porch-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
