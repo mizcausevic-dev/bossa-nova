@@ -12,6 +12,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3142,
+      "sha256": "9191e366f9e645e17dfce9320b338c77727e550b46c2784054b8edbf907fad3f"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -43,8 +53,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1594,
-      "sha256": "263938a18fe2b44f2afb5cc43039aab2f8d78891ff373768b151f285b6c476b7"
+      "bytes": 1816,
+      "sha256": "da601cbf599d2cf7abf550e28d7546c93b8fe732c0b423c97fcd3660c3df4b75"
     },
     {
       "path": "catalog/release-spec.json",
@@ -78,8 +88,8 @@
     },
     {
       "path": "downloads/bossa-nova-inspired-midi.zip",
-      "bytes": 34159,
-      "sha256": "1166030233f4963a84beaffb23622b096bd0e792bda251135580958b38ccf104"
+      "bytes": 35671,
+      "sha256": "940ed05488141fe1f0d9e4c7ae038757f6a97027ad057033ab625befeeff5db2"
     },
     {
       "path": "index.html",
@@ -233,13 +243,8 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1049,
-      "sha256": "6ef3d4501337dcb92411bfc1ec8313ee1e5feec8ca323792d5ff54adc865a201"
-    },
-    {
-      "path": "README.md",
-      "bytes": 2981,
-      "sha256": "a2ff69433efb99cc65564448ce8d8af64a3be8a5bac5205279033f8b54b1d9d6"
+      "bytes": 1132,
+      "sha256": "0b5c5ed96ef565392ded6a626e12df3651dc1ecff7adac189334687fc83a9cff"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -253,13 +258,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 47317,
-      "sha256": "c03364c461c23c884745fed0b76c6e917ef0d690b14bcf83bb5e30ce46008704"
+      "bytes": 47494,
+      "sha256": "d94746bf32efb84ea19b00f0ce2afdd356933c40b611b13b79d3395bed131f1d"
     },
     {
       "path": "tools/validate_release.py",
