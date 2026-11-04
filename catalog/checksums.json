@@ -3,8 +3,8 @@
   "files": [
     {
       "path": ".gitignore",
-      "bytes": 37,
-      "sha256": "d6cbf177a06951c0d5fdeb56e16bb4a911739ffa58e78a9a0533966f6aa244a6"
+      "bytes": 83,
+      "sha256": "e836ca8444b5529a242a19c1b5e97470a59b7b2d8adb8416464fd29f332c6f4d"
     },
     {
       "path": ".nojekyll",
@@ -64,7 +64,7 @@
     {
       "path": "checks/build-metadata.json",
       "bytes": 377,
-      "sha256": "f78981cdf4866ffb15f8077297187ddc2f7f1ab1dc120bc405e56c53f981fb12"
+      "sha256": "bf98dc89630b6a5a9b89e48250770895116a0cd41f12b5dad74fda8b5e4458f1"
     },
     {
       "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
@@ -73,13 +73,13 @@
     },
     {
       "path": "delivery.md",
-      "bytes": 421,
-      "sha256": "b8364da1608a2e3f9d73ae8f0b40269e2d0390a86746b06f16ee413b990d5a78"
+      "bytes": 403,
+      "sha256": "f8f131e8ed03375a1a6067a514ce7146b643253f3c0a7be009242ca68ce627bb"
     },
     {
       "path": "downloads/bossa-nova-inspired-midi.zip",
       "bytes": 34159,
-      "sha256": "6f6c70c7339f7544c982a430c340a5aa570764f7bd0ce278ee60c6e70c1e8841"
+      "sha256": "1166030233f4963a84beaffb23622b096bd0e792bda251135580958b38ccf104"
     },
     {
       "path": "index.html",
@@ -238,8 +238,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2990,
-      "sha256": "6cb4ba1042ad4dce2f93ec8892c0c73ebd9902d86765c4d197701a517292ce2f"
+      "bytes": 2981,
+      "sha256": "a2ff69433efb99cc65564448ce8d8af64a3be8a5bac5205279033f8b54b1d9d6"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -258,8 +258,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 47235,
-      "sha256": "c0abe9cf1a144cdc7da7a652cae05056e5b150082fbe129914d67230b97d1fc5"
+      "bytes": 47317,
+      "sha256": "c03364c461c23c884745fed0b76c6e917ef0d690b14bcf83bb5e30ce46008704"
     },
     {
       "path": "tools/validate_release.py",

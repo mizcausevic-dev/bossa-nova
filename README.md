@@ -2,7 +2,7 @@
 
 Four original note-only MIDI studies for producers who need the musical structure documented as carefully as the files.
 
-**Live catalog:** https://mizcausevic-dev.github.io/bossa-nova-inspired/
+**Live catalog:** https://mizcausevic-dev.github.io/bossa-nova/
 
 This is a bounded symbolic-composition release, not a sample pack, recording, or claim to define a genre, its history or its communities.
 
