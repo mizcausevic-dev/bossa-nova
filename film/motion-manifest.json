@@ -1,0 +1,26 @@
+{
+  "title": "Bossa Nova",
+  "study": "bn01",
+  "bpm": 96,
+  "source_audio": "preview/bossa-nova-inspired-simple-synth-preview.mp3",
+  "source_audio_sha256": "90bd9e684cad3d0b6e2e52e0ad433a677f2594515ad597e5b5a585f17c1bf9e2",
+  "source_midi": "midi/bn01-window-plant/bn01-window-plant-combined.mid",
+  "source_midi_sha256": "f23f1d53a9c7d66707f5e6ce8b1a9278e1ca783ef90d1d9e0e475611c41ccfc9",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "b76c4ef7b78edb24a8dfc363d165ac5605a5bdbcce16af044e9a3b5e64a3c3af",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "9b98b79d7bcf73c0f3c49a951ace1843a7e29c15bad50d42c67016054edf1fc1",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "a52a52f034194970db339d2bc41e5cd8fbe25d33de028dd2923789bd2ef30b78",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
