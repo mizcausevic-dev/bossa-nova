@@ -12,21 +12,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 780,
-      "sha256": "ca38d490427bebcf6a55235fede2c17f600cae0e74683bc0f7d872a872c33968"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3142,
-      "sha256": "9191e366f9e645e17dfce9320b338c77727e550b46c2784054b8edbf907fad3f"
-    },
-    {
-      "path": "RENDERER-METADATA-CORRECTION.md",
-      "bytes": 753,
-      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -93,8 +78,8 @@
     },
     {
       "path": "downloads/bossa-nova-inspired-midi.zip",
-      "bytes": 35671,
-      "sha256": "940ed05488141fe1f0d9e4c7ae038757f6a97027ad057033ab625befeeff5db2"
+      "bytes": 36658,
+      "sha256": "991d33b96d0a59b3e53641820dcacfd406b55fcd55d1f4b32a490b73660d56b2"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -128,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9384,
-      "sha256": "1bbb2944e065979f1ed17df5c659513e4bb36811bf7f454e3f605a3534880793"
+      "bytes": 9574,
+      "sha256": "d51608ce89f62b762ce19c7dd43913f9b8617fefb3f5a83de3eaf68c6eb0df15"
     },
     {
       "path": "midi/bn01-window-plant/bn01-window-plant-combined.mid",
@@ -272,6 +257,16 @@
       "sha256": "0ebe1be1e5fcab5a0eb14fc126c897d631d059beb1402c8312a0ee22228f65b6"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 780,
+      "sha256": "ca38d490427bebcf6a55235fede2c17f600cae0e74683bc0f7d872a872c33968"
+    },
+    {
       "path": "preview/bossa-nova-inspired-simple-synth-preview.mp3",
       "bytes": 1933523,
       "sha256": "90bd9e684cad3d0b6e2e52e0ad433a677f2594515ad597e5b5a585f17c1bf9e2"
@@ -280,6 +275,16 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1132,
       "sha256": "0b5c5ed96ef565392ded6a626e12df3651dc1ecff7adac189334687fc83a9cff"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3257,
+      "sha256": "504a56a2bbda4aab290d43ca460d41008ed88db10b30e8fb9cc9fedd95199df0"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
     },
     {
       "path": "social/instagram/caption.txt",
